@@ -2,7 +2,7 @@ import './messages.css'
 import Chatbox from './chatbox/chatbox'
 import SendMessage from './sendMessage/sendMessage'
 import Sidebar from './sidebar/sidebar'
-import Navbar from './navbar/navbar'
+// import Navbar from './navbar/navbar'
 import Joinchat from './joinchat/joinchat'
 import React, { useState } from 'react'
 

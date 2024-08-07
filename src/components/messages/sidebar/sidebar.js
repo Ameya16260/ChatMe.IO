@@ -1,5 +1,5 @@
 import React,{useEffect, useState} from 'react'
-import im from "../../../profile.jpg"
+// import im from "../../../profile.jpg"
 
 function Sidebar({socket}) {
 
