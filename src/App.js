@@ -4,7 +4,7 @@ import MessagesPractice from './components/messages/messagesPractice';
 import Signup from './components/signup/signup';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import socketIO from 'socket.io-client';
-const socket = socketIO.connect('https://chatme-io.onrender.com');
+const socket = socketIO.connect('http://localhost:4000/');
 
 function App() {
   return (
