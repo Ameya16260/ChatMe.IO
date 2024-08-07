@@ -92,11 +92,7 @@
     font-size: 15px;
     color: blue;
 }
-.sendmessage-main{
-    /* border: 2px solid red; */
-    /* height: 20%; */
-    
-}
+
 .chatbox-main::-webkit-scrollbar {
     display: none;
 }
