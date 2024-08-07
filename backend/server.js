@@ -9,7 +9,7 @@ let users = []; // Correct the variable name to `users`
 let messages =[];
 const socketIO = require('socket.io')(http, {
   cors: {
-    origin: ["https://chatmeio.netlify.app/messages","http://localhost:3000"],
+    origin: ["https://chatmeio.netlify.app/messages","http://localhost:3000","https://66b3468f0ec52b0008f29c42--chatmeio.netlify.app"],
   },
 });
 
